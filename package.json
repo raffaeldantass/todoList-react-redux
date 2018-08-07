@@ -1,0 +1,23 @@
+{
+  "name": "todolist-react-redux",
+  "version": "1.0.0",
+  "description": "With learning purposes I'm used React and Redux to create a To Do List",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raffaeldantass/todoList-react-redux.git"
+  },
+  "author": "Rafael Dantas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raffaeldantass/todoList-react-redux/issues"
+  },
+  "homepage": "https://github.com/raffaeldantass/todoList-react-redux#readme",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-redux": "^5.0.7"
+  }
+}
